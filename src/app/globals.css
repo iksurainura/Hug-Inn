@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --Lime: #84cc16;
+  --Amber: #f59e0b;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: dark ;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
